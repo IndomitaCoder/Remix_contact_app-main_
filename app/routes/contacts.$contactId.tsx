@@ -116,3 +116,4 @@ const Favorite: FunctionComponent<{
     </fetcher.Form>
   );
 };
+ 

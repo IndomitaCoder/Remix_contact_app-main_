@@ -314,3 +314,4 @@ export async function deleteContact(id: string) {
     id: `${contact.first.toLowerCase()}-${contact.last.toLocaleLowerCase()}`,
   });
 });
+ 

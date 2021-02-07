@@ -11,3 +11,4 @@ export const action = async ({
   await deleteContact(params.contactId);
   return redirect("/");
 };
+ 
